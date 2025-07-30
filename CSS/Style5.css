@@ -1,0 +1,120 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+.pain {
+    background-color: lightslategray;
+    height: 700px;
+    width: 1000px;
+    margin: 0 auto;
+    position: relative;
+
+}
+
+.one {
+    background: tomato;
+    height: 150px;
+    width: 150px;
+    position: absolute;
+
+}
+
+.to {
+    background: tomato;
+    height: 150px;
+    width: 150px;
+    position: absolute;
+    right: 0;
+    top: 0;
+
+}
+
+.th {
+    background: tomato;
+    height: 150px;
+    width: 150px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+.fr {
+    background: tomato;
+    height: 150px;
+    width: 150px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+.fv {
+    background: tomato;
+    height: 150px;
+    width: 150px;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.sx {
+    background: tomato;
+    height: 150px;
+    width: 150px;
+    position: absolute;
+    bottom: 0;
+    right: 50%;
+    transform: translateX(50%);
+}
+
+.sv {
+    background: tomato;
+    height: 150px;
+    width: 150px;
+    position: absolute;
+    top: 50%;
+    left: 0;
+    transform: translateY(-50%)
+}
+
+.eg {
+    background: tomato;
+    height: 150px;
+    width: 150px;
+    position: absolute;
+    top: 50%;
+    right: 0;
+    transform: translateY(-50%)
+}
+
+.ni {
+    background: tomato;
+    height: 150px;
+    width: 150px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.n1 {
+    background: lightgray;
+    height: 125px;
+    width: 125px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.n2{
+    background: tomato;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}

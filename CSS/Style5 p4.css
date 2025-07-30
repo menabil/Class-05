@@ -1,0 +1,646 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.main {
+    background: gray;
+    height: 880px;
+    width: 900px;
+    margin: 20px auto 0;
+    position: relative;
+}
+
+.box {
+    height: 800px;
+    width: 800px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.r1 {
+    display: flex;
+}
+
+.one {
+    background: teal;
+    height: 100px;
+    width: 100px;
+    position: relative;
+}
+
+.one img {
+    width: 90px;
+    position: absolute;
+    left: 5px;
+    top: 6px;
+}
+
+.two {
+    background: white;
+    height: 100px;
+    width: 100px;
+    position: relative;
+}
+
+.two img {
+    width: 90px;
+    position: absolute;
+    left: 5px;
+    top: 5px;
+}
+
+.three {
+    background: teal;
+    height: 100px;
+    width: 100px;
+    position: relative;
+}
+
+.three img {
+    width: 90px;
+    position: absolute;
+    left: 5px;
+    top: 5px;
+}
+
+.four {
+    background: white;
+    height: 100px;
+    width: 100px;
+    position: relative;
+}
+
+.four img {
+    width: 90px;
+    position: absolute;
+    left: 5px;
+    top: 5px;
+}
+
+.five {
+    background: teal;
+    height: 100px;
+    width: 100px;
+    position: relative;
+}
+
+.five img {
+    width: 90px;
+    position: absolute;
+    left: 5px;
+    top: 5px;
+}
+
+.six {
+    background: white;
+    height: 100px;
+    width: 100px;
+    position: relative;
+}
+
+.six img {
+    width: 90px;
+    position: absolute;
+    left: 5px;
+    top: 5px;
+}
+
+.seven {
+    background: teal;
+    height: 100px;
+    width: 100px;
+    position: relative;
+}
+
+.seven img {
+    width: 90px;
+    position: absolute;
+    left: 5px;
+    top: 5px;
+}
+
+.eight {
+    background: white;
+    height: 100px;
+    width: 100px;
+    position: relative;
+}
+
+.eight img {
+    width: 90px;
+    position: absolute;
+    left: 5px;
+    top: 6px;
+}
+
+.r2 {
+    display: flex;
+}
+
+.Eone {
+    background: white;
+    height: 100px;
+    width: 100px;
+    position: relative;
+}
+
+.Eone img {
+    width: 90px;
+    position: absolute;
+}
+
+.Etwo {
+    background: teal;
+    height: 100px;
+    width: 100px;
+}
+
+.Etwo img {
+    width: 90px;
+    position: absolute;
+}
+
+.Ethree {
+    background: white;
+    height: 100px;
+    width: 100px;
+}
+
+.Ethree img {
+    width: 90px;
+    position: absolute;
+}
+
+.Efour {
+    background: teal;
+    height: 100px;
+    width: 100px;
+}
+
+.Efour img {
+    width: 90px;
+    position: absolute;
+}
+
+.Efive {
+    background: white;
+    height: 100px;
+    width: 100px;
+}
+
+.Efive img {
+    width: 90px;
+    position: absolute;
+}
+
+.Esix {
+    background: teal;
+    height: 100px;
+    width: 100px;
+}
+
+.Esix img {
+    width: 90px;
+    position: absolute;
+}
+
+.Eseven {
+    background: white;
+    height: 100px;
+    width: 100px;
+}
+
+.Eseven img {
+    width: 90px;
+    position: absolute;
+}
+
+.Eeight {
+    background: teal;
+    height: 100px;
+    width: 100px;
+}
+
+.Eeight img {
+    width: 90px;
+    position: absolute;
+}
+
+.r3 {
+    display: flex;
+}
+
+.fone {
+    background: teal;
+    height: 100px;
+    width: 100px;
+}
+
+.ftwo {
+    background: white;
+    height: 100px;
+    width: 100px;
+}
+
+.fthree {
+    background: teal;
+    height: 100px;
+    width: 100px;
+}
+
+.ffour {
+    background: white;
+    height: 100px;
+    width: 100px;
+}
+
+.ffive {
+    background: teal;
+    height: 100px;
+    width: 100px;
+}
+
+.fsix {
+    background: white;
+    height: 100px;
+    width: 100px;
+}
+
+.fseven {
+    background: teal;
+    height: 100px;
+    width: 100px;
+}
+
+.feight {
+    background: white;
+    height: 100px;
+    width: 100px;
+}
+
+.r4 {
+    display: flex;
+}
+
+.done {
+    background: white;
+    height: 100px;
+    width: 100px;
+}
+
+.dtwo {
+    background: teal;
+    height: 100px;
+    width: 100px;
+}
+
+.dthree {
+    background: white;
+    height: 100px;
+    width: 100px;
+}
+
+.dfour {
+    background: teal;
+    height: 100px;
+    width: 100px;
+}
+
+.dfive {
+    background: white;
+    height: 100px;
+    width: 100px;
+}
+
+.dsix {
+    background: teal;
+    height: 100px;
+    width: 100px;
+}
+
+.dseven {
+    background: white;
+    height: 100px;
+    width: 100px;
+}
+
+.deight {
+    background: teal;
+    height: 100px;
+    width: 100px;
+}
+
+.r5 {
+    display: flex;
+}
+
+.cone {
+    background: teal;
+    height: 100px;
+    width: 100px;
+}
+
+.ctwo {
+    background: white;
+    height: 100px;
+    width: 100px;
+}
+
+.cthree {
+    background: teal;
+    height: 100px;
+    width: 100px;
+}
+
+.cfour {
+    background: white;
+    height: 100px;
+    width: 100px;
+}
+
+.cfive {
+    background: teal;
+    height: 100px;
+    width: 100px;
+}
+
+.csix {
+    background: white;
+    height: 100px;
+    width: 100px;
+}
+
+.cseven {
+    background: teal;
+    height: 100px;
+    width: 100px;
+}
+
+.ceight {
+    background: white;
+    height: 100px;
+    width: 100px;
+}
+
+.r6 {
+    display: flex;
+}
+
+.bone {
+    background: white;
+    height: 100px;
+    width: 100px;
+}
+
+.btwo {
+    background: teal;
+    height: 100px;
+    width: 100px;
+}
+
+.bthree {
+    background: white;
+    height: 100px;
+    width: 100px;
+}
+
+.bfour {
+    background: teal;
+    height: 100px;
+    width: 100px;
+}
+
+.bfive {
+    background: white;
+    height: 100px;
+    width: 100px;
+}
+
+.bsix {
+    background: teal;
+    height: 100px;
+    width: 100px;
+}
+
+.bseven {
+    background: white;
+    height: 100px;
+    width: 100px;
+}
+
+.beight {
+    background: teal;
+    height: 100px;
+    width: 100px;
+}
+
+.r7 {
+    display: flex;
+}
+
+.aone {
+    background: teal;
+    height: 100px;
+    width: 100px;
+}
+
+.aone img {
+    width: 90px;
+    position: absolute;
+}
+
+.atwo {
+    background: white;
+    height: 100px;
+    width: 100px;
+}
+
+.atwo img {
+    width: 90px;
+    position: absolute;
+}
+
+.athree {
+    background: teal;
+    height: 100px;
+    width: 100px;
+}
+
+.athree img {
+    width: 90px;
+    position: absolute;
+}
+
+.afour {
+    background: white;
+    height: 100px;
+    width: 100px;
+}
+
+.afour img {
+    width: 90px;
+    position: absolute;
+}
+
+.afive {
+    background: teal;
+    height: 100px;
+    width: 100px;
+}
+
+.afive img {
+    width: 90px;
+    position: absolute;
+}
+
+.asix {
+    background: white;
+    height: 100px;
+    width: 100px;
+}
+
+.asix img {
+    width: 90px;
+    position: absolute;
+}
+
+.aseven {
+    background: teal;
+    height: 100px;
+    width: 100px;
+}
+
+.aseven img {
+    width: 90px;
+    position: absolute;
+}
+
+.aeight {
+    background: white;
+    height: 100px;
+    width: 100px;
+}
+
+.aeight img {
+    width: 90px;
+    position: absolute;
+}
+
+.r8 {
+    display: flex;
+}
+
+.zone {
+    background: white;
+    height: 100px;
+    width: 100px;
+    position: relative;
+}
+
+.zone img {
+    width: 90px;
+    position: absolute;
+    left: 5px;
+    top: 6px;
+}
+
+.ztwo {
+    background: teal;
+    height: 100px;
+    width: 100px;
+    position: relative;
+}
+
+.ztwo img {
+    width: 90px;
+    position: absolute;
+    left: 5px;
+    top: 5px;
+}
+
+.zthree {
+    background: white;
+    height: 100px;
+    width: 100px;
+    position: relative;
+}
+
+.zthree img {
+    width: 90px;
+    position: absolute;
+    left: 5px;
+    top: 5px;
+}
+
+.zfour {
+    background: teal;
+    height: 100px;
+    width: 100px;
+    position: relative;
+}
+
+.zfour img {
+    width: 90px;
+    position: absolute;
+    left: 5px;
+    top: 5px;
+}
+
+.zfive {
+    background: white;
+    height: 100px;
+    width: 100px;
+    position: relative;
+}
+
+.zfive img {
+    width: 100px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+
+.zsix {
+    background: teal;
+    height: 100px;
+    width: 100px;
+    position: relative;
+}
+
+.zsix img {
+    width: 90px;
+    position: absolute;
+    left: 5px;
+    top: 5px;
+}
+
+.zseven {
+    background: white;
+    height: 100px;
+    width: 100px;
+    position: relative;
+}
+
+.zseven img {
+    width: 90px;
+    position: absolute;
+    left: 5px;
+    top: 5px;
+}
+
+.zeight {
+    background: teal;
+    height: 100px;
+    width: 100px;
+    position: relative;
+}
+
+.zeight img {
+    width: 90px;
+    position: absolute;
+    left: 5px;
+    top: 6px;
+}

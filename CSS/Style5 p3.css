@@ -1,0 +1,434 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+.main {
+    position: relative;
+    margin: 0 auto;
+    height: 825px;
+    width: 95%;
+    background: lightsteelblue;
+    top: 40px;
+
+}
+
+.r1 {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 30px 0;
+    height: 180px;
+    margin: 0 auto;
+
+}
+
+.one {
+    height: 180px;
+    width: 300px;
+}
+
+.org {
+    height: 60px;
+    width: 300px;
+    background: orange;
+}
+
+.white {
+    height: 60px;
+    width: 300px;
+    background: white;
+
+}
+
+.white img {
+    width: 110px;
+    padding: 0 0 0 90px;
+
+}
+
+.green {
+    height: 60px;
+    width: 300px;
+    background: green;
+}
+
+.two {
+    height: 180px;
+    width: 300px;
+    background: white;
+
+}
+
+.cir {
+    height: 100px;
+    width: 100px;
+    background: red;
+    border-radius: 50%;
+    margin: 13% 0 0 33%;
+}
+
+.three {
+    height: 180px;
+    width: 300px;
+    background: white;
+
+}
+
+.three img {
+    width: 270px;
+    margin: 0px 0 0 15px;
+}
+
+.four {
+    height: 175px;
+    width: 300px;
+    background: #ffbf24;
+
+}
+
+.four img {
+    width: 300px;
+    margin: 14px 0 0 0;
+
+}
+
+.five {
+    height: 180px;
+    width: 300px;
+    background: white;
+    display: flex;
+    justify-content: space-between;
+}
+
+.red {
+
+    width: 75px;
+    height: 180px;
+    background: #d62718;
+}
+
+.der {
+
+    width: 75px;
+    height: 180px;
+    background: #d62718;
+}
+
+.five img {
+    width: 150px;
+
+}
+
+.r2 {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 30px 0;
+    height: 180px;
+    margin: 0 auto;
+}
+
+.six {
+    height: 180px;
+    width: 300px;
+    background: white;
+}
+
+.six img {
+    width: 350px;
+    margin: -84px 0px 0px -26px;
+}
+
+.seven {
+    height: 180px;
+    width: 300px;
+    background: green;
+}
+
+.wht {
+    height: 180px;
+    width: 90px;
+    background: white;
+}
+
+.seven img {
+    width: 145px;
+    margin: -200px 0 25px 115px;
+}
+
+.eight {
+    height: 180px;
+    width: 300px;
+    background: red;
+    display: flex;
+}
+
+.wft {
+    height: 180px;
+    width: 100px;
+    background: white;
+}
+
+.gre {
+    height: 180px;
+    width: 100px;
+    background: green;
+
+}
+
+.nine {
+    height: 180px;
+    width: 300px;
+    background: white;
+}
+
+.blu {
+    height: 60px;
+    width: 300px;
+    background: #75ade0;
+}
+
+.nine img {
+    width: 60px;
+    margin: 0px 0 0 120px;
+}
+
+.bul {
+    height: 60px;
+    width: 300px;
+    background: #75ade0;
+}
+
+.ten {
+    height: 180px;
+    width: 300px;
+    background: #00953e;
+}
+
+.ten img {
+    width: 280px;
+    margin: -11px 0 0px 15px;
+}
+
+.r3 {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 30px 0;
+    height: 180px;
+    margin: 0 auto;
+}
+
+.ele {
+    height: 180px;
+    width: 300px;
+    background: white;
+}
+
+.rud {
+    height: 180px;
+    width: 45px;
+    background: red;
+    margin: 0 0 0 124px;
+}
+
+.rad {
+    height: 45px;
+    width: 300px;
+    background: red;
+    margin: -114px 0 0 0;
+}
+
+.twl {
+    height: 180px;
+    width: 300px;
+    background: yellow;
+}
+
+.blc {
+    height: 60px;
+    width: 300px;
+    background: black;
+}
+
+.rod {
+    height: 60px;
+    width: 300px;
+    background: red;
+
+}
+
+.thrt {
+    height: 180px;
+    width: 300px;
+    background: green;
+
+}
+
+.thrt img {
+    width: 190px;
+    margin: 20px 0 0 45px;
+}
+
+.fort {
+    height: 180px;
+    width: 300px;
+    background: red;
+
+}
+
+.up {
+    height: 60px;
+    width: 220px;
+    background: green;
+    margin-left: 80px;
+}
+
+.mid {
+    height: 60px;
+    width: 220px;
+    background: white;
+    margin-left: 80px;
+}
+
+.dow {
+    height: 60px;
+    width: 220px;
+    background: black;
+    margin-left: 80px;
+}
+
+.fift {
+    height: 180px;
+    width: 300px;
+    background: white;
+    position: relative;
+
+}
+
+.goru {
+    height: 60px;
+    width: 300px;
+    background: green;
+}
+
+.fift img {
+    width: 300px;
+    position: absolute;
+    top: 60px;
+}
+
+.gada {
+    height: 60px;
+    width: 300px;
+    background: red;
+    position: absolute;
+    top: 120px;
+}
+
+.r4 {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 30px 0;
+    height: 180px;
+    margin: 0 auto;
+}
+
+.sixt {
+    height: 180px;
+    width: 300px;
+    position: relative;
+}
+
+.try {
+    height: 180px;
+    width: 100px;
+    background: red;
+    clip-path: polygon(100% 50%, 0 0, 0 100%);
+    position: absolute;
+    top: 0px;
+}
+
+.to {
+    height: 60px;
+    width: 300px;
+    background: black;
+}
+
+.on {
+    height: 60px;
+    width: 300px;
+    background: white;
+}
+
+.put {
+    background: green;
+    height: 60px;
+    width: 300px;
+}
+
+.sevt {
+    height: 180px;
+    width: 300px;
+    background: red;
+
+}
+
+.sevt img {
+    width: 130px;
+    margin: 0 0 0 0;
+
+}
+
+.eit {
+    height: 180px;
+    width: 300px;
+    background: red;
+
+}
+
+.weft {
+    height: 60px;
+    width: 300px;
+    background: white;
+
+}
+
+.rus {
+    height: 60px;
+    width: 300px;
+    background: blue;
+}
+
+.nit {
+    height: 180px;
+    width: 300px;
+    background: red;
+
+}
+
+.nit img {
+    width: 150px;
+    margin-top: 7%;
+    margin-left: 25%;
+}
+
+.twt {
+    height: 180px;
+    width: 300px;
+    background: #005194;
+
+}
+
+.sew {
+    height: 180px;
+    width: 45px;
+    background: yellow;
+    margin: 0 0px 0 50px;
+}
+
+.suw {
+    height: 45px;
+    width: 300px;
+    background: yellow;
+    margin: -120px 0 0 0;
+}
